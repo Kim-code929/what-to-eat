@@ -1,0 +1,204 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F0E8D9;
+}
+
+.cat {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	background-color: orange;
+	border-radius: 7px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 40px 10px;
+	margin-top: 50px;
+	font-size: 100px;
+	font-family: 'Jua', san-serif;
+	width: 600px;
+	height: 200px;
+	margin-bottom: 10px;
+}
+
+#logo {
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	font-family: Jua;
+	margin-bottom: 5px;
+	margin-top: 8px;
+}
+
+h3 {
+	text-align: center;
+	font-family: Jua;
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.KOR {
+	background-image: url("../food/bibimbap.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 300px;
+	background-size: 300px 200px;
+	border-radius: 10px;
+	padding-top: 220px;
+	font-family: Jua;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid orange;
+}
+
+.KOR:hover {
+	box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 50);
+}
+
+.KOR p {
+	margin-top: 8px;
+	color: black;
+}
+
+.korean {
+	font-size: 40px;
+	color: black;
+	margin-bottom: 8px;
+}
+
+.CHN {
+	background-image: url("../food/china.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 300px;
+	background-size: 300px 200px;
+	border-radius: 10px;
+	padding-top: 220px;
+	font-family: Jua;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	border: 1px solid orange;
+}
+
+.CHN:hover {
+	box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 50);
+}
+
+.CHN p {
+	margin-top: 8px;
+	color: black;
+}
+
+.chinese {
+	font-size: 40px;
+	color: black;
+	margin-bottom: 8px;
+}
+
+.JPN {
+	background-image: url("../food/sushi.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 300px;
+	background-size: 300px 200px;
+	border-radius: 10px;
+	padding-top: 220px;
+	font-family: Jua;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	border: 1px solid orange;
+}
+
+.JPN:hover {
+	box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 50);
+}
+
+.JPN p {
+	margin-top: 8px;
+	color: black;
+}
+
+.japanese {
+	font-size: 40px;
+	color: black;
+	margin-bottom: 8px;
+}
+
+.WES {
+	background-image: url("../food/burger.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 300px;
+	background-size: 300px 200px;
+	border-radius: 10px;
+	padding-top: 220px;
+	font-family: Jua;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	border: 1px solid orange;
+}
+
+.WES:hover {
+	box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 50);
+}
+
+.WES p {
+	margin-top: 8px;
+	color: black;
+}
+
+.western {
+	font-size: 40px;
+	color: black;
+	margin-bottom: 8px;
+}
+
+.ETC {
+	background-image: url("../food/etc.jpeg");
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 300px;
+	background-size: 300px 200px;
+	border-radius: 10px;
+	padding-top: 220px;
+	font-family: Jua;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	border: 1px solid orange;
+}
+
+.ETC:hover {
+	box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 50);
+}
+
+.ETC p {
+	margin-top: 8px;
+	color: black;
+}
+
+.etc {
+	font-size: 40px;
+	color: black;
+	margin-bottom: 8px;
+}
